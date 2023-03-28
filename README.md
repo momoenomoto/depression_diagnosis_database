@@ -1,3 +1,4 @@
-# this is the depression diagnosis application.
+# database integration for degression diagnosis app
 
-I will write instructions here.
+- Using Spring Data MongoDB API
+
